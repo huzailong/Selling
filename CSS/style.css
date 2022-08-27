@@ -1,0 +1,75 @@
+.btn2 {
+  background: #34b8d9;
+  background-image: -webkit-linear-gradient(top, #34b8d9, #b12cb8);
+  background-image: -moz-linear-gradient(top, #34b8d9, #b12cb8);
+  background-image: -ms-linear-gradient(top, #34b8d9, #b12cb8);
+  background-image: -o-linear-gradient(top, #34b8d9, #b12cb8);
+  background-image: linear-gradient(to bottom, #34b8d9, #b12cb8);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  background: #fc633c;
+  background-image: -webkit-linear-gradient(top, #fc633c, #9fd934);
+  background-image: -moz-linear-gradient(top, #fc633c, #9fd934);
+  background-image: -ms-linear-gradient(top, #fc633c, #9fd934);
+  background-image: -o-linear-gradient(top, #fc633c, #9fd934);
+  background-image: linear-gradient(to bottom, #fc633c, #9fd934);
+  text-decoration: none;
+}
+
+#h5{
+  color:black
+}
+
+
+.sus{
+position:relative;
+left:666;
+top:-20;
+}
+
+.op{
+  position:relative;
+  left:666;
+}
+
+.leo{
+  color:slateblue;
+}
+
+.lio{
+  color:royalblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
